@@ -12,6 +12,6 @@
   "users": [
     { "id": 1, "name": "Juan Perez", "user": "jperez" },
     { "id": 2, "name": "Lionel Messi", "user": "lmessi" },
-    { "id": 3, "name": "Lisandro Lopez", "user": "llopez" },
+    { "id": 3, "name": "Lisandro Lopez", "user": "llopez" }
   ]
 }
